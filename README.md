@@ -1,4 +1,4 @@
-## Getting Started
+## Getting Started AWS CI/CD
 
 -   STEP1 - Login to AWS console and create EC2 instance
 -   STEP2 - Setup GitHub Repo and Push your project
